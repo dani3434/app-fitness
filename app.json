@@ -2,9 +2,9 @@
   "expo": {
     "name": "fitness-app",
     "slug": "fitness-app",
+    "scheme": "fitness-app",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["expo-router"]
   }
 }
